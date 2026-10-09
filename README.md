@@ -12,7 +12,7 @@ Ouvrir `index.html` dans un navigateur.
 
 ## À personnaliser
 Dans `index.html`, remplacer :
-- `VOTRE_EMAIL@example.com`
+- `Boulaliabdlhamid8@gmail.com`
 - le lien GitHub
-- le lien LinkedIn
-- les projets par tes vrais projets si tu veux afficher des captures d'écran.
+- www.linkedin.com/in/abdelhamid-boulali-7a68713a3
+
